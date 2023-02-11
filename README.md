@@ -29,4 +29,5 @@
 *Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
 ### Ответ: 
-
+![Скрин](https://github.com/Karhq/9.5._hw_prometius_2/blob/main/HW_3.png)
+![Скрин](https://github.com/Karhq/9.5._hw_prometius_2/blob/main/HW_3.1.png)
