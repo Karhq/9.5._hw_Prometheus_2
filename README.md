@@ -8,7 +8,7 @@
 *Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending.*
 
 ### Ответ: 
-
+![Скрин](https://github.com/Karhq/9.5._hw_prometius_2/blob/main/HW_1.png)
 ---
 
 ### Задание 2
@@ -17,6 +17,8 @@
 *Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.*
 
 ### Ответ: 
+![Скрин](https://github.com/Karhq/9.5._hw_prometius_2/blob/main/HW_2.png)
+![Скрин](https://github.com/Karhq/9.5._hw_prometius_2/blob/main/HW_2.1.png)
 
 
 ---
